@@ -1,4 +1,4 @@
 # Events
-Coming soon.
-Upcoming events of Vizag. 
-Contribute if you can as per [guide](https://github.com/vizagite/vizagite/blob/main/contributing.md)
+Upcoming events in and around the city of Vizag. Sourced from news and others. 
+
+Contribute if you have any **public** events to list as per [guide](https://github.com/vizagite/vizagite/blob/main/contributing.md)
